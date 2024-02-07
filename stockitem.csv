@@ -1,0 +1,673 @@
+Stock Item Key;WWI Stock Item ID;Stock Item;Color;Selling Package;Buying Package;Brand;Size;Lead Time Days;Quantity Per Outer;Is Chiller Stock;Tax Rate;Unit Price;Recommended Retail Price;Typical Weight Per Unit
+0;0;Unknown;N/A;N/A;N/A;N/A;N/A;0;0;False;0;0;0;0
+2014;65;RC vintage American toy coupe with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2015;43;Developer joke mug - understanding recursion requires understanding recursion (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2016;42;Developer joke mug - understanding recursion requires understanding recursion (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2017;65;RC vintage American toy coupe with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2018;43;Developer joke mug - understanding recursion requires understanding recursion (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2019;42;Developer joke mug - understanding recursion requires understanding recursion (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2020;65;RC vintage American toy coupe with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2021;65;RC vintage American toy coupe with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2022;65;RC vintage American toy coupe with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2023;42;Developer joke mug - understanding recursion requires understanding recursion (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2024;43;Developer joke mug - understanding recursion requires understanding recursion (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2025;66;RC big wheel monster truck with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;45;67,28;1,8
+2026;64;RC vintage American toy coupe with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2027;57;IT joke mug - hardware: part of the computer that can be kicked (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2028;56;IT joke mug - hardware: part of the computer that can be kicked (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2029;39;Developer joke mug - inheritance is the OO way to become wealthy (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2030;38;Developer joke mug - inheritance is the OO way to become wealthy (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2031;66;RC big wheel monster truck with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;45;67,28;1,8
+2032;64;RC vintage American toy coupe with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2033;57;IT joke mug - hardware: part of the computer that can be kicked (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2034;56;IT joke mug - hardware: part of the computer that can be kicked (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2035;39;Developer joke mug - inheritance is the OO way to become wealthy (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2036;38;Developer joke mug - inheritance is the OO way to become wealthy (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2037;66;RC big wheel monster truck with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;45;67,28;1,8
+2038;64;RC vintage American toy coupe with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2039;64;RC vintage American toy coupe with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2040;66;RC big wheel monster truck with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;45;67,28;1,8
+2041;64;RC vintage American toy coupe with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;30;44,85;1,7
+2042;38;Developer joke mug - inheritance is the OO way to become wealthy (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2043;39;Developer joke mug - inheritance is the OO way to become wealthy (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2044;56;IT joke mug - hardware: part of the computer that can be kicked (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2045;57;IT joke mug - hardware: part of the computer that can be kicked (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2046;75;Ride on big wheel monster truck (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;345;515,78;21
+2047;74;Ride on vintage American toy coupe (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2048;63;RC toy sedan car with remote control (Pink) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2049;62;RC toy sedan car with remote control (Yellow) 1/50 scale;Yellow;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2050;61;RC toy sedan car with remote control (Green) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2051;60;RC toy sedan car with remote control (Blue) 1/50 scale;Blue;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2052;59;RC toy sedan car with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2053;58;RC toy sedan car with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2054;53;IT joke mug - keyboard not found … press F1 to continue (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2055;52;IT joke mug - keyboard not found … press F1 to continue (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2056;45;Developer joke mug - there are 10 types of people in the world (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2057;44;Developer joke mug - there are 10 types of people in the world (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2058;63;RC toy sedan car with remote control (Pink) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2059;62;RC toy sedan car with remote control (Yellow) 1/50 scale;Yellow;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2060;61;RC toy sedan car with remote control (Green) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2061;60;RC toy sedan car with remote control (Blue) 1/50 scale;Blue;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2062;59;RC toy sedan car with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2063;58;RC toy sedan car with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2064;53;IT joke mug - keyboard not found … press F1 to continue (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2065;52;IT joke mug - keyboard not found … press F1 to continue (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2066;45;Developer joke mug - there are 10 types of people in the world (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2067;44;Developer joke mug - there are 10 types of people in the world (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2068;75;Ride on big wheel monster truck (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;345;515,78;21
+2069;74;Ride on vintage American toy coupe (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2070;63;RC toy sedan car with remote control (Pink) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2071;62;RC toy sedan car with remote control (Yellow) 1/50 scale;Yellow;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2072;61;RC toy sedan car with remote control (Green) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2073;60;RC toy sedan car with remote control (Blue) 1/50 scale;Blue;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2074;59;RC toy sedan car with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2075;58;RC toy sedan car with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2076;58;RC toy sedan car with remote control (Black) 1/50 scale;Black;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2077;59;RC toy sedan car with remote control (Red) 1/50 scale;Red;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2078;60;RC toy sedan car with remote control (Blue) 1/50 scale;Blue;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2079;61;RC toy sedan car with remote control (Green) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2080;62;RC toy sedan car with remote control (Yellow) 1/50 scale;Yellow;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2081;63;RC toy sedan car with remote control (Pink) 1/50 scale;N/A;Each;Each;Northwind;1/50 scale;14;1;False;14;25;37,38;1,5
+2082;74;Ride on vintage American toy coupe (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2083;74;Ride on vintage American toy coupe (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2084;75;Ride on big wheel monster truck (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;345;515,78;21
+2085;44;Developer joke mug - there are 10 types of people in the world (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2086;45;Developer joke mug - there are 10 types of people in the world (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2087;52;IT joke mug - keyboard not found … press F1 to continue (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2088;53;IT joke mug - keyboard not found … press F1 to continue (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2089;202;Red and white urgent  heavy despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2090;198;Black and orange this way up despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2091;196;Black and orange handle with care despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2092;195;Black and orange handle with care despatch tape  48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2093;194;Black and orange glass with care despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2094;193;Black and orange glass with care despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2095;73;Ride on vintage American toy coupe (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2096;71;Ride on toy sedan car (Yellow) 1/12 scale;Yellow;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2097;51;Developer joke mug - old C developers never die (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2098;50;Developer joke mug - old C developers never die (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2099;49;Developer joke mug - this code was generated by a tool (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2100;48;Developer joke mug - this code was generated by a tool (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2101;35;Developer joke mug - fun was unexpected at this time (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2102;34;Developer joke mug - fun was unexpected at this time (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2103;51;Developer joke mug - old C developers never die (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2104;50;Developer joke mug - old C developers never die (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2105;49;Developer joke mug - this code was generated by a tool (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2106;48;Developer joke mug - this code was generated by a tool (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2107;35;Developer joke mug - fun was unexpected at this time (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2108;34;Developer joke mug - fun was unexpected at this time (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2109;202;Red and white urgent  heavy despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2110;198;Black and orange this way up despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2111;196;Black and orange handle with care despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2112;195;Black and orange handle with care despatch tape  48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2113;194;Black and orange glass with care despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2114;193;Black and orange glass with care despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2115;71;Ride on toy sedan car (Yellow) 1/12 scale;Yellow;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2116;73;Ride on vintage American toy coupe (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2117;73;Ride on vintage American toy coupe (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2118;71;Ride on toy sedan car (Yellow) 1/12 scale;Yellow;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2119;73;Ride on vintage American toy coupe (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;285;426,08;18
+2120;34;Developer joke mug - fun was unexpected at this time (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2121;35;Developer joke mug - fun was unexpected at this time (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2122;48;Developer joke mug - this code was generated by a tool (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2123;49;Developer joke mug - this code was generated by a tool (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2124;50;Developer joke mug - old C developers never die (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2125;51;Developer joke mug - old C developers never die (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2126;193;Black and orange glass with care despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2127;194;Black and orange glass with care despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2128;195;Black and orange handle with care despatch tape  48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2129;196;Black and orange handle with care despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2130;198;Black and orange this way up despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2131;202;Red and white urgent  heavy despatch tape  48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2132;205;Tape dispenser (Blue);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2133;204;Tape dispenser (Red);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2134;203;Tape dispenser (Black);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2135;205;Tape dispenser (Blue);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2136;204;Tape dispenser (Red);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2137;203;Tape dispenser (Black);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2138;203;Tape dispenser (Black);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2139;204;Tape dispenser (Red);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2140;205;Tape dispenser (Blue);N/A;Each;Each;N/A;N/A;20;10;False;20;32;47,84;1
+2141;206;Permanent marker black 5mm nib (Black) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2142;201;Red and white urgent despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2143;186;Shipping carton (Brown) 457x457x457mm;N/A;Each;Each;N/A;457x457x457mm;14;25;False;14;2,1;3,14;0,4
+2144;185;Shipping carton (Brown) 356x356x279mm;N/A;Each;Each;N/A;356x356x279mm;14;25;False;14;2,04;3,05;0,3
+2145;184;Shipping carton (Brown) 305x305x305mm;N/A;Each;Each;N/A;305x305x305mm;14;25;False;14;3,5;5,23;0,3
+2146;183;Shipping carton (Brown) 480x270x320mm;N/A;Each;Each;N/A;480x270x320mm;14;25;False;14;2,74;4,1;0,4
+2147;182;Shipping carton (Brown) 457x279x279mm;N/A;Each;Each;N/A;457x279x279mm;14;25;False;14;1,28;1,91;0,4
+2148;181;Shipping carton (Brown) 356x229x229mm;N/A;Each;Each;N/A;356x229x229mm;14;25;False;14;1,14;1,7;0,4
+2149;180;Shipping carton (Brown) 279x254x217mm;N/A;Each;Each;N/A;279x254x217mm;14;25;False;14;1,11;1,66;0,3
+2150;179;Shipping carton (Brown) 229x229x229mm;N/A;Each;Each;N/A;229x229x229mm;14;25;False;14;1,05;1,57;0,3
+2151;178;Shipping carton (Brown) 500x310x310mm;N/A;Each;Each;N/A;500x310x310mm;14;25;False;14;2,55;3,81;0,4
+2152;177;Shipping carton (Brown) 413x285x187mm;N/A;Each;Each;N/A;413x285x187mm;14;25;False;14;1,05;1,57;0,3
+2153;173;32 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;105;156,98;10
+2154;172;32 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;48;71,76;6
+2155;171;32 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;32;47,84;5
+2156;170;20 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;102;152,49;10
+2157;169;20 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;45;67,28;6
+2158;168;20 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;29;43,36;5
+2159;167;10 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;99;148,01;10
+2160;166;10 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;42;62,79;6
+2161;165;10 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;26;38,87;5
+2162;145;Halloween zombie mask (Light Brown) XL;Light Brown;Each;Carton;N/A;XL;12;12;False;12;18;26,91;0,3
+2163;144;Halloween zombie mask (Light Brown) L;Light Brown;Each;Carton;N/A;L;12;12;False;12;18;26,91;0,3
+2164;143;Halloween zombie mask (Light Brown) M;Light Brown;Each;Carton;N/A;M;12;12;False;12;18;26,91;0,3
+2165;142;Halloween zombie mask (Light Brown) S;Light Brown;Each;Carton;N/A;S;12;12;False;12;18;26,91;0,3
+2166;133;Furry gorilla with big eyes slippers (Black) XL;Black;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2167;132;Furry gorilla with big eyes slippers (Black) L;Black;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2168;131;Furry gorilla with big eyes slippers (Black) M;Black;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2169;130;Furry gorilla with big eyes slippers (Black) S;Black;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2170;121;Dinosaur battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2171;120;Dinosaur battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2172;119;Dinosaur battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2173;118;Dinosaur battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2174;95;"The Gu"" red shirt XML tag t-shirt (Black) XL""";Black;Each;Carton;N/A;XL;7;12;False;7;18;26,91;0,35
+2175;94;"The Gu"" red shirt XML tag t-shirt (Black) L""";Black;Each;Carton;N/A;L;7;12;False;7;18;26,91;0,35
+2176;93;"The Gu"" red shirt XML tag t-shirt (Black) M""";Black;Each;Carton;N/A;M;7;12;False;7;18;26,91;0,35
+2177;92;"The Gu"" red shirt XML tag t-shirt (Black) S""";Black;Each;Carton;N/A;S;7;12;False;7;18;26,91;0,3
+2178;91;"The Gu"" red shirt XML tag t-shirt (Black) XS""";Black;Each;Carton;N/A;XS;7;12;False;7;18;26,91;0,25
+2179;82;"The Gu"" red shirt XML tag t-shirt (White) XL""";White;Each;Carton;N/A;XL;7;12;False;7;18;26,91;0,35
+2180;81;"The Gu"" red shirt XML tag t-shirt (White) L""";White;Each;Carton;N/A;L;7;12;False;7;18;26,91;0,35
+2181;80;"The Gu"" red shirt XML tag t-shirt (White) M""";White;Each;Carton;N/A;M;7;12;False;7;18;26,91;0,35
+2182;79;"The Gu"" red shirt XML tag t-shirt (White) S""";White;Each;Carton;N/A;S;7;12;False;7;18;26,91;0,3
+2183;78;"The Gu"" red shirt XML tag t-shirt (White) XS""";White;Each;Carton;N/A;XS;7;12;False;7;18;26,91;0,25
+2184;41;Developer joke mug - (hip, hip, array) (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2185;40;Developer joke mug - (hip, hip, array) (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2186;31;Developer joke mug - Oct 31 = Dec 25 (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2187;30;Developer joke mug - Oct 31 = Dec 25 (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2188;29;DBA joke mug - two types of DBAs (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2189;28;DBA joke mug - two types of DBAs (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2190;25;DBA joke mug - I will get you in order (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2191;24;DBA joke mug - I will get you in order (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2192;21;DBA joke mug - you might be a DBA if (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2193;20;DBA joke mug - you might be a DBA if (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2194;17;DBA joke mug - mind if I join you? (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2195;16;DBA joke mug - mind if I join you? (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2196;221;Novelty chilli chocolates 500g;N/A;Bag;Carton;N/A;500g;3;12;True;3;14,5;20,74;0,5
+2197;220;Novelty chilli chocolates 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2198;227;White chocolate moon rocks 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2199;226;White chocolate snow balls 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2200;41;Developer joke mug - (hip, hip, array) (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2201;40;Developer joke mug - (hip, hip, array) (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2202;31;Developer joke mug - Oct 31 = Dec 25 (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2203;30;Developer joke mug - Oct 31 = Dec 25 (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2204;29;DBA joke mug - two types of DBAs (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2205;28;DBA joke mug - two types of DBAs (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2206;25;DBA joke mug - I will get you in order (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2207;24;DBA joke mug - I will get you in order (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2208;21;DBA joke mug - you might be a DBA if (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2209;20;DBA joke mug - you might be a DBA if (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2210;17;DBA joke mug - mind if I join you? (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2211;16;DBA joke mug - mind if I join you? (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2212;206;Permanent marker black 5mm nib (Black) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2213;201;Red and white urgent despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2214;186;Shipping carton (Brown) 457x457x457mm;N/A;Each;Each;N/A;457x457x457mm;14;25;False;14;2,1;3,14;0,4
+2215;185;Shipping carton (Brown) 356x356x279mm;N/A;Each;Each;N/A;356x356x279mm;14;25;False;14;2,04;3,05;0,3
+2216;184;Shipping carton (Brown) 305x305x305mm;N/A;Each;Each;N/A;305x305x305mm;14;25;False;14;3,5;5,23;0,3
+2217;183;Shipping carton (Brown) 480x270x320mm;N/A;Each;Each;N/A;480x270x320mm;14;25;False;14;2,74;4,1;0,4
+2218;182;Shipping carton (Brown) 457x279x279mm;N/A;Each;Each;N/A;457x279x279mm;14;25;False;14;1,28;1,91;0,4
+2219;181;Shipping carton (Brown) 356x229x229mm;N/A;Each;Each;N/A;356x229x229mm;14;25;False;14;1,14;1,7;0,4
+2220;180;Shipping carton (Brown) 279x254x217mm;N/A;Each;Each;N/A;279x254x217mm;14;25;False;14;1,11;1,66;0,3
+2221;179;Shipping carton (Brown) 229x229x229mm;N/A;Each;Each;N/A;229x229x229mm;14;25;False;14;1,05;1,57;0,3
+2222;178;Shipping carton (Brown) 500x310x310mm;N/A;Each;Each;N/A;500x310x310mm;14;25;False;14;2,55;3,81;0,4
+2223;177;Shipping carton (Brown) 413x285x187mm;N/A;Each;Each;N/A;413x285x187mm;14;25;False;14;1,05;1,57;0,3
+2224;173;32 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;105;156,98;10
+2225;172;32 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;48;71,76;6
+2226;171;32 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;32;47,84;5
+2227;170;20 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;102;152,49;10
+2228;169;20 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;45;67,28;6
+2229;168;20 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;29;43,36;5
+2230;167;10 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;99;148,01;10
+2231;166;10 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;42;62,79;6
+2232;165;10 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;26;38,87;5
+2233;133;Furry gorilla with big eyes slippers (Black) XL;Black;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2234;132;Furry gorilla with big eyes slippers (Black) L;Black;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2235;131;Furry gorilla with big eyes slippers (Black) M;Black;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2236;130;Furry gorilla with big eyes slippers (Black) S;Black;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2237;121;Dinosaur battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2238;120;Dinosaur battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2239;119;Dinosaur battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2240;118;Dinosaur battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2241;145;Halloween zombie mask (Light Brown) XL;Light Brown;Each;Carton;N/A;XL;12;12;False;12;18;26,91;0,3
+2242;144;Halloween zombie mask (Light Brown) L;Light Brown;Each;Carton;N/A;L;12;12;False;12;18;26,91;0,3
+2243;143;Halloween zombie mask (Light Brown) M;Light Brown;Each;Carton;N/A;M;12;12;False;12;18;26,91;0,3
+2244;142;Halloween zombie mask (Light Brown) S;Light Brown;Each;Carton;N/A;S;12;12;False;12;18;26,91;0,3
+2245;78;"The Gu"" red shirt XML tag t-shirt (White) XS""";White;Each;Carton;N/A;XS;7;12;False;7;18;26,91;0,25
+2246;79;"The Gu"" red shirt XML tag t-shirt (White) S""";White;Each;Carton;N/A;S;7;12;False;7;18;26,91;0,3
+2247;80;"The Gu"" red shirt XML tag t-shirt (White) M""";White;Each;Carton;N/A;M;7;12;False;7;18;26,91;0,35
+2248;81;"The Gu"" red shirt XML tag t-shirt (White) L""";White;Each;Carton;N/A;L;7;12;False;7;18;26,91;0,35
+2249;82;"The Gu"" red shirt XML tag t-shirt (White) XL""";White;Each;Carton;N/A;XL;7;12;False;7;18;26,91;0,35
+2250;91;"The Gu"" red shirt XML tag t-shirt (Black) XS""";Black;Each;Carton;N/A;XS;7;12;False;7;18;26,91;0,25
+2251;92;"The Gu"" red shirt XML tag t-shirt (Black) S""";Black;Each;Carton;N/A;S;7;12;False;7;18;26,91;0,3
+2252;93;"The Gu"" red shirt XML tag t-shirt (Black) M""";Black;Each;Carton;N/A;M;7;12;False;7;18;26,91;0,35
+2253;94;"The Gu"" red shirt XML tag t-shirt (Black) L""";Black;Each;Carton;N/A;L;7;12;False;7;18;26,91;0,35
+2254;95;"The Gu"" red shirt XML tag t-shirt (Black) XL""";Black;Each;Carton;N/A;XL;7;12;False;7;18;26,91;0,35
+2255;220;Novelty chilli chocolates 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2256;221;Novelty chilli chocolates 500g;N/A;Bag;Carton;N/A;500g;3;12;True;3;14,5;20,74;0,5
+2257;226;White chocolate snow balls 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2258;227;White chocolate moon rocks 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2259;142;Halloween zombie mask (Light Brown) S;Light Brown;Each;Carton;N/A;S;12;12;False;12;18;26,91;0,3
+2260;143;Halloween zombie mask (Light Brown) M;Light Brown;Each;Carton;N/A;M;12;12;False;12;18;26,91;0,3
+2261;144;Halloween zombie mask (Light Brown) L;Light Brown;Each;Carton;N/A;L;12;12;False;12;18;26,91;0,3
+2262;145;Halloween zombie mask (Light Brown) XL;Light Brown;Each;Carton;N/A;XL;12;12;False;12;18;26,91;0,3
+2263;133;Furry gorilla with big eyes slippers (Black) XL;Black;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2264;132;Furry gorilla with big eyes slippers (Black) L;Black;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2265;131;Furry gorilla with big eyes slippers (Black) M;Black;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2266;130;Furry gorilla with big eyes slippers (Black) S;Black;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2267;121;Dinosaur battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2268;120;Dinosaur battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2269;119;Dinosaur battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2270;118;Dinosaur battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2271;118;Dinosaur battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2272;119;Dinosaur battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2273;120;Dinosaur battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2274;121;Dinosaur battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2275;130;Furry gorilla with big eyes slippers (Black) S;Black;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2276;131;Furry gorilla with big eyes slippers (Black) M;Black;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2277;132;Furry gorilla with big eyes slippers (Black) L;Black;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2278;133;Furry gorilla with big eyes slippers (Black) XL;Black;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2279;16;DBA joke mug - mind if I join you? (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2280;17;DBA joke mug - mind if I join you? (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2281;20;DBA joke mug - you might be a DBA if (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2282;21;DBA joke mug - you might be a DBA if (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2283;24;DBA joke mug - I will get you in order (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2284;25;DBA joke mug - I will get you in order (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2285;28;DBA joke mug - two types of DBAs (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2286;29;DBA joke mug - two types of DBAs (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2287;30;Developer joke mug - Oct 31 = Dec 25 (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2288;31;Developer joke mug - Oct 31 = Dec 25 (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2289;40;Developer joke mug - (hip, hip, array) (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2290;41;Developer joke mug - (hip, hip, array) (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2291;165;10 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;26;38,87;5
+2292;166;10 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;42;62,79;6
+2293;167;10 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;99;148,01;10
+2294;168;20 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;29;43,36;5
+2295;169;20 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;45;67,28;6
+2296;170;20 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;102;152,49;10
+2297;171;32 mm Anti static bubble wrap (Blue) 10m;Blue;Each;Each;N/A;10m;14;10;False;14;32;47,84;5
+2298;172;32 mm Anti static bubble wrap (Blue) 20m;Blue;Each;Each;N/A;20m;14;10;False;14;48;71,76;6
+2299;173;32 mm Anti static bubble wrap (Blue) 50m;Blue;Each;Each;N/A;50m;14;10;False;14;105;156,98;10
+2300;177;Shipping carton (Brown) 413x285x187mm;N/A;Each;Each;N/A;413x285x187mm;14;25;False;14;1,05;1,57;0,3
+2301;178;Shipping carton (Brown) 500x310x310mm;N/A;Each;Each;N/A;500x310x310mm;14;25;False;14;2,55;3,81;0,4
+2302;179;Shipping carton (Brown) 229x229x229mm;N/A;Each;Each;N/A;229x229x229mm;14;25;False;14;1,05;1,57;0,3
+2303;180;Shipping carton (Brown) 279x254x217mm;N/A;Each;Each;N/A;279x254x217mm;14;25;False;14;1,11;1,66;0,3
+2304;181;Shipping carton (Brown) 356x229x229mm;N/A;Each;Each;N/A;356x229x229mm;14;25;False;14;1,14;1,7;0,4
+2305;182;Shipping carton (Brown) 457x279x279mm;N/A;Each;Each;N/A;457x279x279mm;14;25;False;14;1,28;1,91;0,4
+2306;183;Shipping carton (Brown) 480x270x320mm;N/A;Each;Each;N/A;480x270x320mm;14;25;False;14;2,74;4,1;0,4
+2307;184;Shipping carton (Brown) 305x305x305mm;N/A;Each;Each;N/A;305x305x305mm;14;25;False;14;3,5;5,23;0,3
+2308;185;Shipping carton (Brown) 356x356x279mm;N/A;Each;Each;N/A;356x356x279mm;14;25;False;14;2,04;3,05;0,3
+2309;186;Shipping carton (Brown) 457x457x457mm;N/A;Each;Each;N/A;457x457x457mm;14;25;False;14;2,1;3,14;0,4
+2310;201;Red and white urgent despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2311;206;Permanent marker black 5mm nib (Black) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2312;210;Packing knife with metal insert blade (Yellow) 18mm;N/A;Each;Each;N/A;18mm;14;5;False;14;2,4;3,59;0,5
+2313;209;Packing knife with metal insert blade (Yellow) 9mm;N/A;Each;Each;N/A;9mm;14;5;False;14;1,89;2,83;0,5
+2314;200;Black and yellow heavy despatch tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2315;199;Black and yellow heavy despatch tape  48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2316;197;Black and orange this way up despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2317;192;Black and orange fragile despatch tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;36;False;14;4,1;6,13;0,7
+2318;191;Black and orange fragile despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;36;False;14;3,7;5,53;0,5
+2319;188;3 kg Courier post bag (White) 300x190x95mm;N/A;Each;Each;N/A;300x190x95mm;14;25;False;14;0,66;0,99;0,1
+2320;187;Express post box 5kg (White) 350x280x130mm;N/A;Each;Each;N/A;350x280x130mm;14;25;False;14;0,95;1,42;0,2
+2321;101;"The Gu"" red shirt XML tag t-shirt (Black) 7XL""";Black;Each;Carton;N/A;7XL;7;12;False;7;18;26,91;0,45
+2322;100;"The Gu"" red shirt XML tag t-shirt (Black) 6XL""";Black;Each;Carton;N/A;6XL;7;12;False;7;18;26,91;0,4
+2323;99;"The Gu"" red shirt XML tag t-shirt (Black) 5XL""";Black;Each;Carton;N/A;5XL;7;12;False;7;18;26,91;0,4
+2324;98;"The Gu"" red shirt XML tag t-shirt (Black) 4XL""";Black;Each;Carton;N/A;4XL;7;12;False;7;18;26,91;0,4
+2325;97;"The Gu"" red shirt XML tag t-shirt (Black) 3XL""";Black;Each;Carton;N/A;3XL;7;12;False;7;18;26,91;0,4
+2326;96;"The Gu"" red shirt XML tag t-shirt (Black) XXL""";Black;Each;Carton;N/A;XXL;7;12;False;7;18;26,91;0,4
+2327;90;"The Gu"" red shirt XML tag t-shirt (Black) XXS""";Black;Each;Carton;N/A;XXS;7;12;False;7;18;26,91;0,25
+2328;89;"The Gu"" red shirt XML tag t-shirt (Black) 3XS""";Black;Each;Carton;N/A;3XS;7;12;False;7;18;26,91;0,25
+2329;88;"The Gu"" red shirt XML tag t-shirt (White) 7XL""";White;Each;Carton;N/A;7XL;7;12;False;7;18;26,91;0,45
+2330;87;"The Gu"" red shirt XML tag t-shirt (White) 6XL""";White;Each;Carton;N/A;6XL;7;12;False;7;18;26,91;0,4
+2331;86;"The Gu"" red shirt XML tag t-shirt (White) 5XL""";White;Each;Carton;N/A;5XL;7;12;False;7;18;26,91;0,4
+2332;85;"The Gu"" red shirt XML tag t-shirt (White) 4XL""";White;Each;Carton;N/A;4XL;7;12;False;7;18;26,91;0,4
+2333;84;"The Gu"" red shirt XML tag t-shirt (White) 3XL""";White;Each;Carton;N/A;3XL;7;12;False;7;18;26,91;0,4
+2334;83;"The Gu"" red shirt XML tag t-shirt (White) XXL""";White;Each;Carton;N/A;XXL;7;12;False;7;18;26,91;0,4
+2335;77;"The Gu"" red shirt XML tag t-shirt (White) XXS""";White;Each;Carton;N/A;XXS;7;12;False;7;18;26,91;0,25
+2336;76;"The Gu"" red shirt XML tag t-shirt (White) 3XS""";White;Each;Carton;N/A;3XS;7;12;False;7;18;26,91;0,25
+2337;72;Ride on toy sedan car (Pink) 1/12 scale;N/A;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2338;70;Ride on toy sedan car (Green) 1/12 scale;N/A;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2339;69;Ride on toy sedan car (Blue) 1/12 scale;Blue;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2340;68;Ride on toy sedan car (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2341;67;Ride on toy sedan car (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2342;55;IT joke mug - that behavior is by design (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2343;54;IT joke mug - that behavior is by design (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2344;47;Developer joke mug - a foo walks into a bar (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2345;46;Developer joke mug - a foo walks into a bar (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2346;37;Developer joke mug - when your hammer is C++ (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2347;36;Developer joke mug - when your hammer is C++ (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2348;33;Developer joke mug - that's a hardware problem (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2349;32;Developer joke mug - that's a hardware problem (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2350;27;DBA joke mug - SELECT caffeine FROM mug (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2351;26;DBA joke mug - SELECT caffeine FROM mug (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2352;15;USB food flash drive - dessert 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2353;8;USB food flash drive - dim sum 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2354;15;USB food flash drive - dessert 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2355;8;USB food flash drive - dim sum 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2356;55;IT joke mug - that behavior is by design (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2357;54;IT joke mug - that behavior is by design (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2358;47;Developer joke mug - a foo walks into a bar (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2359;46;Developer joke mug - a foo walks into a bar (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2360;37;Developer joke mug - when your hammer is C++ (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2361;36;Developer joke mug - when your hammer is C++ (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2362;33;Developer joke mug - that's a hardware problem (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2363;32;Developer joke mug - that's a hardware problem (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2364;27;DBA joke mug - SELECT caffeine FROM mug (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2365;26;DBA joke mug - SELECT caffeine FROM mug (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2366;210;Packing knife with metal insert blade (Yellow) 18mm;N/A;Each;Each;N/A;18mm;14;5;False;14;2,4;3,59;0,5
+2367;209;Packing knife with metal insert blade (Yellow) 9mm;N/A;Each;Each;N/A;9mm;14;5;False;14;1,89;2,83;0,5
+2368;200;Black and yellow heavy despatch tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2369;199;Black and yellow heavy despatch tape  48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2370;197;Black and orange this way up despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2371;192;Black and orange fragile despatch tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;36;False;14;4,1;6,13;0,7
+2372;191;Black and orange fragile despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;36;False;14;3,7;5,53;0,5
+2373;188;3 kg Courier post bag (White) 300x190x95mm;N/A;Each;Each;N/A;300x190x95mm;14;25;False;14;0,66;0,99;0,1
+2374;187;Express post box 5kg (White) 350x280x130mm;N/A;Each;Each;N/A;350x280x130mm;14;25;False;14;0,95;1,42;0,2
+2375;72;Ride on toy sedan car (Pink) 1/12 scale;N/A;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2376;70;Ride on toy sedan car (Green) 1/12 scale;N/A;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2377;69;Ride on toy sedan car (Blue) 1/12 scale;Blue;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2378;68;Ride on toy sedan car (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2379;67;Ride on toy sedan car (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2380;76;"The Gu"" red shirt XML tag t-shirt (White) 3XS""";White;Each;Carton;N/A;3XS;7;12;False;7;18;26,91;0,25
+2381;77;"The Gu"" red shirt XML tag t-shirt (White) XXS""";White;Each;Carton;N/A;XXS;7;12;False;7;18;26,91;0,25
+2382;83;"The Gu"" red shirt XML tag t-shirt (White) XXL""";White;Each;Carton;N/A;XXL;7;12;False;7;18;26,91;0,4
+2383;84;"The Gu"" red shirt XML tag t-shirt (White) 3XL""";White;Each;Carton;N/A;3XL;7;12;False;7;18;26,91;0,4
+2384;85;"The Gu"" red shirt XML tag t-shirt (White) 4XL""";White;Each;Carton;N/A;4XL;7;12;False;7;18;26,91;0,4
+2385;86;"The Gu"" red shirt XML tag t-shirt (White) 5XL""";White;Each;Carton;N/A;5XL;7;12;False;7;18;26,91;0,4
+2386;87;"The Gu"" red shirt XML tag t-shirt (White) 6XL""";White;Each;Carton;N/A;6XL;7;12;False;7;18;26,91;0,4
+2387;88;"The Gu"" red shirt XML tag t-shirt (White) 7XL""";White;Each;Carton;N/A;7XL;7;12;False;7;18;26,91;0,45
+2388;89;"The Gu"" red shirt XML tag t-shirt (Black) 3XS""";Black;Each;Carton;N/A;3XS;7;12;False;7;18;26,91;0,25
+2389;90;"The Gu"" red shirt XML tag t-shirt (Black) XXS""";Black;Each;Carton;N/A;XXS;7;12;False;7;18;26,91;0,25
+2390;96;"The Gu"" red shirt XML tag t-shirt (Black) XXL""";Black;Each;Carton;N/A;XXL;7;12;False;7;18;26,91;0,4
+2391;97;"The Gu"" red shirt XML tag t-shirt (Black) 3XL""";Black;Each;Carton;N/A;3XL;7;12;False;7;18;26,91;0,4
+2392;98;"The Gu"" red shirt XML tag t-shirt (Black) 4XL""";Black;Each;Carton;N/A;4XL;7;12;False;7;18;26,91;0,4
+2393;99;"The Gu"" red shirt XML tag t-shirt (Black) 5XL""";Black;Each;Carton;N/A;5XL;7;12;False;7;18;26,91;0,4
+2394;100;"The Gu"" red shirt XML tag t-shirt (Black) 6XL""";Black;Each;Carton;N/A;6XL;7;12;False;7;18;26,91;0,4
+2395;101;"The Gu"" red shirt XML tag t-shirt (Black) 7XL""";Black;Each;Carton;N/A;7XL;7;12;False;7;18;26,91;0,45
+2396;67;Ride on toy sedan car (Black) 1/12 scale;Black;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2397;68;Ride on toy sedan car (Red) 1/12 scale;Red;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2398;69;Ride on toy sedan car (Blue) 1/12 scale;Blue;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2399;70;Ride on toy sedan car (Green) 1/12 scale;N/A;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2400;72;Ride on toy sedan car (Pink) 1/12 scale;N/A;Each;Each;Northwind;1/12 scale;14;1;False;14;230;343,85;15
+2401;15;USB food flash drive - dessert 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2402;8;USB food flash drive - dim sum 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2403;26;DBA joke mug - SELECT caffeine FROM mug (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2404;27;DBA joke mug - SELECT caffeine FROM mug (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2405;32;Developer joke mug - that's a hardware problem (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2406;33;Developer joke mug - that's a hardware problem (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2407;36;Developer joke mug - when your hammer is C++ (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2408;37;Developer joke mug - when your hammer is C++ (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2409;46;Developer joke mug - a foo walks into a bar (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2410;47;Developer joke mug - a foo walks into a bar (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2411;54;IT joke mug - that behavior is by design (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2412;55;IT joke mug - that behavior is by design (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2413;8;USB food flash drive - dim sum 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2414;15;USB food flash drive - dessert 10 drive variety pack;N/A;Packet;Packet;N/A;N/A;14;1;False;14;240;358,8;0,5
+2415;187;Express post box 5kg (White) 350x280x130mm;N/A;Each;Each;N/A;350x280x130mm;14;25;False;14;0,95;1,42;0,2
+2416;188;3 kg Courier post bag (White) 300x190x95mm;N/A;Each;Each;N/A;300x190x95mm;14;25;False;14;0,66;0,99;0,1
+2417;191;Black and orange fragile despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;36;False;14;3,7;5,53;0,5
+2418;192;Black and orange fragile despatch tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;36;False;14;4,1;6,13;0,7
+2419;197;Black and orange this way up despatch tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2420;199;Black and yellow heavy despatch tape  48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;24;False;14;3,7;5,53;0,5
+2421;200;Black and yellow heavy despatch tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;24;False;14;4,1;6,13;0,7
+2422;209;Packing knife with metal insert blade (Yellow) 9mm;N/A;Each;Each;N/A;9mm;14;5;False;14;1,89;2,83;0,5
+2423;210;Packing knife with metal insert blade (Yellow) 18mm;N/A;Each;Each;N/A;18mm;14;5;False;14;2,4;3,59;0,5
+2424;215;Air cushion machine (Blue);N/A;Each;Each;N/A;N/A;20;1;False;20;1899;2839,01;10
+2425;212;Large  replacement blades 18mm;N/A;Each;Each;N/A;18mm;14;10;False;14;4,3;6,43;0,8
+2426;211;Small 9mm replacement blades 9mm;N/A;Each;Each;N/A;9mm;14;10;False;14;4,1;6,13;0,7
+2427;176;Bubblewrap dispenser (Red) 1.5m;Red;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2428;155;Large sized bubblewrap roll 50m;N/A;Each;Each;N/A;50m;14;10;False;14;24;35,88;10
+2429;154;Medium sized bubblewrap roll 20m;N/A;Each;Each;N/A;20m;14;10;False;14;20;29,9;6
+2430;153;Small sized bubblewrap roll 10m;N/A;Each;Each;N/A;10m;14;10;False;14;4,5;6,73;5
+2431;149;Halloween skull mask (Gray) XL;Gray;Each;Carton;N/A;XL;12;12;False;12;18;26,91;0,3
+2432;148;Halloween skull mask (Gray) L;Gray;Each;Carton;N/A;L;12;12;False;12;18;26,91;0,3
+2433;147;Halloween skull mask (Gray) M;Gray;Each;Carton;N/A;M;12;12;False;12;18;26,91;0,3
+2434;146;Halloween skull mask (Gray) S;Gray;Each;Carton;N/A;S;12;12;False;12;18;26,91;0,3
+2435;141;Furry animal socks (Pink) XL;N/A;Pair;Packet;N/A;XL;12;12;False;12;5;7,48;0,1
+2436;140;Furry animal socks (Pink) L;N/A;Pair;Packet;N/A;L;12;12;False;12;5;7,48;0,1
+2437;139;Furry animal socks (Pink) M;N/A;Pair;Packet;N/A;M;12;12;False;12;5;7,48;0,1
+2438;138;Furry animal socks (Pink) S;N/A;Pair;Packet;N/A;S;12;12;False;12;5;7,48;0,1
+2439;129;Plush shark slippers (Gray) XL;Gray;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2440;128;Plush shark slippers (Gray) L;Gray;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2441;127;Plush shark slippers (Gray) M;Gray;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2442;126;Plush shark slippers (Gray) S;Gray;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2443;112;Superhero action jacket (Blue) L;Blue;Each;Each;N/A;L;12;1;False;12;30;44,85;0,35
+2444;111;Superhero action jacket (Blue) M;Blue;Each;Each;N/A;M;12;1;False;12;30;44,85;0,35
+2445;110;Superhero action jacket (Blue) S;Blue;Each;Each;N/A;S;12;1;False;12;25;37,38;0,3
+2446;102;Alien officer hoodie (Black) XL;Black;Each;Each;N/A;XL;12;1;False;12;35;52,33;0,4
+2447;12;USB food flash drive - donut;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2448;11;USB food flash drive - cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2449;9;USB food flash drive - banana;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2450;6;USB food flash drive - hot dog;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2451;5;USB food flash drive - hamburger;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2452;2;USB rocket launcher (Gray);Gray;Each;Each;N/A;N/A;14;1;False;14;25;37,38;0,3
+2453;1;USB missile launcher (Green);N/A;Each;Each;N/A;N/A;14;1;False;14;25;37,38;0,3
+2454;224;Chocolate frogs 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2455;12;USB food flash drive - donut;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2456;11;USB food flash drive - cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2457;9;USB food flash drive - banana;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2458;6;USB food flash drive - hot dog;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2459;5;USB food flash drive - hamburger;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2460;1;USB missile launcher (Green);N/A;Each;Each;N/A;N/A;14;1;False;14;25;37,38;0,3
+2461;215;Air cushion machine (Blue);N/A;Each;Each;N/A;N/A;20;1;False;20;1899;2839,01;10
+2462;212;Large  replacement blades 18mm;N/A;Each;Each;N/A;18mm;14;10;False;14;4,3;6,43;0,8
+2463;211;Small 9mm replacement blades 9mm;N/A;Each;Each;N/A;9mm;14;10;False;14;4,1;6,13;0,7
+2464;176;Bubblewrap dispenser (Red) 1.5m;Red;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2465;155;Large sized bubblewrap roll 50m;N/A;Each;Each;N/A;50m;14;10;False;14;24;35,88;10
+2466;154;Medium sized bubblewrap roll 20m;N/A;Each;Each;N/A;20m;14;10;False;14;20;29,9;6
+2467;153;Small sized bubblewrap roll 10m;N/A;Each;Each;N/A;10m;14;10;False;14;4,5;6,73;5
+2468;102;Alien officer hoodie (Black) XL;Black;Each;Each;N/A;XL;12;1;False;12;35;52,33;0,4
+2469;110;Superhero action jacket (Blue) S;Blue;Each;Each;N/A;S;12;1;False;12;25;37,38;0,3
+2470;111;Superhero action jacket (Blue) M;Blue;Each;Each;N/A;M;12;1;False;12;30;44,85;0,35
+2471;112;Superhero action jacket (Blue) L;Blue;Each;Each;N/A;L;12;1;False;12;30;44,85;0,35
+2472;138;Furry animal socks (Pink) S;N/A;Pair;Packet;N/A;S;12;12;False;12;5;7,48;0,1
+2473;139;Furry animal socks (Pink) M;N/A;Pair;Packet;N/A;M;12;12;False;12;5;7,48;0,1
+2474;140;Furry animal socks (Pink) L;N/A;Pair;Packet;N/A;L;12;12;False;12;5;7,48;0,1
+2475;141;Furry animal socks (Pink) XL;N/A;Pair;Packet;N/A;XL;12;12;False;12;5;7,48;0,1
+2476;224;Chocolate frogs 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2477;12;USB food flash drive - donut;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2478;11;USB food flash drive - cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2479;9;USB food flash drive - banana;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2480;6;USB food flash drive - hot dog;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2481;5;USB food flash drive - hamburger;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2482;5;USB food flash drive - hamburger;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2483;6;USB food flash drive - hot dog;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2484;9;USB food flash drive - banana;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2485;11;USB food flash drive - cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2486;12;USB food flash drive - donut;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2487;1;USB missile launcher (Green);N/A;Each;Each;N/A;N/A;14;1;False;14;25;37,38;0,3
+2488;153;Small sized bubblewrap roll 10m;N/A;Each;Each;N/A;10m;14;10;False;14;4,5;6,73;5
+2489;154;Medium sized bubblewrap roll 20m;N/A;Each;Each;N/A;20m;14;10;False;14;20;29,9;6
+2490;155;Large sized bubblewrap roll 50m;N/A;Each;Each;N/A;50m;14;10;False;14;24;35,88;10
+2491;176;Bubblewrap dispenser (Red) 1.5m;Red;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2492;211;Small 9mm replacement blades 9mm;N/A;Each;Each;N/A;9mm;14;10;False;14;4,1;6,13;0,7
+2493;212;Large  replacement blades 18mm;N/A;Each;Each;N/A;18mm;14;10;False;14;4,3;6,43;0,8
+2494;215;Air cushion machine (Blue);N/A;Each;Each;N/A;N/A;20;1;False;20;1899;2839,01;10
+2495;219;Void fill 400 L bag (White) 400L;N/A;Each;Each;N/A;400L;14;10;False;14;50;74,75;1
+2496;218;Void fill 300 L bag (White) 300L;N/A;Each;Each;N/A;300L;14;10;False;14;37,5;56,06;0,75
+2497;217;Void fill 200 L bag (White) 200L;N/A;Each;Each;N/A;200L;14;10;False;14;25;37,38;0,5
+2498;216;Void fill 100 L bag (White) 100L;N/A;Each;Each;N/A;100L;14;10;False;14;12,5;18,69;0,25
+2499;214;Air cushion film 200mmx200mm 325m;N/A;Each;Each;N/A;325m;14;1;False;14;90;134,55;6
+2500;213;Air cushion film 200mmx100mm 325m;N/A;Each;Each;N/A;325m;14;1;False;14;87;130,07;5
+2501;208;Permanent marker red 5mm nib (Red) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2502;207;Permanent marker blue 5mm nib (Blue) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2503;190;Clear packaging tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;20;False;14;3,5;5,23;0,7
+2504;189;Clear packaging tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;26;False;14;2,9;4,34;0,5
+2505;175;Bubblewrap dispenser (Blue) 1.5m;Blue;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2506;174;Bubblewrap dispenser (Black) 1.5m;Black;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2507;164;32 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;112;167,44;10
+2508;163;32 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;37;55,32;6
+2509;162;32 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;22;32,89;5
+2510;161;20 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;108;161,46;10
+2511;160;20 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;33;49,34;6
+2512;159;20 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;18;26,91;5
+2513;158;10 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;105;156,98;10
+2514;157;10 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;30;44,85;6
+2515;156;10 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;15;22,43;5
+2516;152;Pack of 12 action figures (female);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2517;151;Pack of 12 action figures (male);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2518;150;Pack of 12 action figures (variety);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2519;137;Animal with big feet slippers (Brown) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2520;136;Animal with big feet slippers (Brown) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2521;135;Animal with big feet slippers (Brown) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2522;134;Animal with big feet slippers (Brown) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2523;125;Ogre battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2524;124;Ogre battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2525;123;Ogre battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2526;122;Ogre battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2527;117;Superhero action jacket (Blue) 5XL;Blue;Each;Each;N/A;5XL;12;1;False;12;34;50,83;0,4
+2528;116;Superhero action jacket (Blue) 4XL;Blue;Each;Each;N/A;4XL;12;1;False;12;34;50,83;0,4
+2529;115;Superhero action jacket (Blue) 3XL;Blue;Each;Each;N/A;3XL;12;1;False;12;34;50,83;0,4
+2530;114;Superhero action jacket (Blue) XXL;Blue;Each;Each;N/A;XXL;12;1;False;12;30;44,85;0,35
+2531;113;Superhero action jacket (Blue) XL;Blue;Each;Each;N/A;XL;12;1;False;12;30;44,85;0,35
+2532;109;Superhero action jacket (Blue) XS;Blue;Each;Each;N/A;XS;12;1;False;12;25;37,38;0,3
+2533;108;Superhero action jacket (Blue) XXS;Blue;Each;Each;N/A;XXS;12;1;False;12;25;37,38;0,3
+2534;107;Superhero action jacket (Blue) 3XS;Blue;Each;Each;N/A;3XS;12;1;False;12;25;37,38;0,3
+2535;106;Alien officer hoodie (Black) 5XL;Black;Each;Each;N/A;5XL;12;1;False;12;35;52,33;0,4
+2536;105;Alien officer hoodie (Black) 4XL;Black;Each;Each;N/A;4XL;12;1;False;12;35;52,33;0,4
+2537;104;Alien officer hoodie (Black) 3XL;Black;Each;Each;N/A;3XL;12;1;False;12;35;52,33;0,4
+2538;103;Alien officer hoodie (Black) XXL;Black;Each;Each;N/A;XXL;12;1;False;12;35;52,33;0,4
+2539;23;DBA joke mug - it depends (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2540;22;DBA joke mug - it depends (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2541;19;DBA joke mug - daaaaaa-ta (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2542;18;DBA joke mug - daaaaaa-ta (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2543;14;USB food flash drive - fortune cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2544;13;USB food flash drive - shrimp cocktail;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2545;10;USB food flash drive - chocolate bar;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2546;7;USB food flash drive - pizza slice;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2547;4;USB food flash drive - sushi roll;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2548;3;Office cube periscope (Black);Black;Each;Carton;N/A;N/A;14;10;False;14;18,5;27,66;0,25
+2549;223;Chocolate echidnas 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2550;222;Chocolate beetles 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2551;225;Chocolate sharks 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2552;14;USB food flash drive - fortune cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2553;13;USB food flash drive - shrimp cocktail;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2554;10;USB food flash drive - chocolate bar;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2555;7;USB food flash drive - pizza slice;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2556;4;USB food flash drive - sushi roll;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2557;23;DBA joke mug - it depends (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2558;22;DBA joke mug - it depends (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2559;19;DBA joke mug - daaaaaa-ta (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2560;18;DBA joke mug - daaaaaa-ta (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2561;2;USB rocket launcher (Gray);Steel Gray;Each;Each;N/A;N/A;14;1;False;14;25;37,38;0,3
+2562;219;Void fill 400 L bag (White) 400L;N/A;Each;Each;N/A;400L;14;10;False;14;50;74,75;1
+2563;218;Void fill 300 L bag (White) 300L;N/A;Each;Each;N/A;300L;14;10;False;14;37,5;56,06;0,75
+2564;217;Void fill 200 L bag (White) 200L;N/A;Each;Each;N/A;200L;14;10;False;14;25;37,38;0,5
+2565;216;Void fill 100 L bag (White) 100L;N/A;Each;Each;N/A;100L;14;10;False;14;12,5;18,69;0,25
+2566;214;Air cushion film 200mmx200mm 325m;N/A;Each;Each;N/A;325m;14;1;False;14;90;134,55;6
+2567;213;Air cushion film 200mmx100mm 325m;N/A;Each;Each;N/A;325m;14;1;False;14;87;130,07;5
+2568;208;Permanent marker red 5mm nib (Red) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2569;207;Permanent marker blue 5mm nib (Blue) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2570;190;Clear packaging tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;20;False;14;3,5;5,23;0,7
+2571;189;Clear packaging tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;26;False;14;2,9;4,34;0,5
+2572;175;Bubblewrap dispenser (Blue) 1.5m;Blue;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2573;174;Bubblewrap dispenser (Black) 1.5m;Black;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2574;164;32 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;112;167,44;10
+2575;163;32 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;37;55,32;6
+2576;162;32 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;22;32,89;5
+2577;161;20 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;108;161,46;10
+2578;160;20 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;33;49,34;6
+2579;159;20 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;18;26,91;5
+2580;158;10 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;105;156,98;10
+2581;157;10 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;30;44,85;6
+2582;156;10 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;15;22,43;5
+2583;137;Animal with big feet slippers (Brown) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2584;136;Animal with big feet slippers (Brown) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2585;135;Animal with big feet slippers (Brown) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2586;134;Animal with big feet slippers (Brown) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2587;129;Plush shark slippers (Gray) XL;Steel Gray;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2588;128;Plush shark slippers (Gray) L;Steel Gray;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2589;127;Plush shark slippers (Gray) M;Steel Gray;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2590;126;Plush shark slippers (Gray) S;Steel Gray;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2591;125;Ogre battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2592;124;Ogre battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2593;123;Ogre battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2594;122;Ogre battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2595;149;Halloween skull mask (Gray) XL;Steel Gray;Each;Carton;N/A;XL;12;12;False;12;18;26,91;0,3
+2596;148;Halloween skull mask (Gray) L;Steel Gray;Each;Carton;N/A;L;12;12;False;12;18;26,91;0,3
+2597;147;Halloween skull mask (Gray) M;Steel Gray;Each;Carton;N/A;M;12;12;False;12;18;26,91;0,3
+2598;146;Halloween skull mask (Gray) S;Steel Gray;Each;Carton;N/A;S;12;12;False;12;18;26,91;0,3
+2599;152;Pack of 12 action figures (female);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2600;151;Pack of 12 action figures (male);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2601;150;Pack of 12 action figures (variety);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2602;3;Office cube periscope (Black);Black;Each;Carton;N/A;N/A;14;10;False;14;18,5;27,66;0,25
+2603;103;Alien officer hoodie (Black) XXL;Black;Each;Each;N/A;XXL;12;1;False;12;35;52,33;0,4
+2604;104;Alien officer hoodie (Black) 3XL;Black;Each;Each;N/A;3XL;12;1;False;12;35;52,33;0,4
+2605;105;Alien officer hoodie (Black) 4XL;Black;Each;Each;N/A;4XL;12;1;False;12;35;52,33;0,4
+2606;106;Alien officer hoodie (Black) 5XL;Black;Each;Each;N/A;5XL;12;1;False;12;35;52,33;0,4
+2607;107;Superhero action jacket (Blue) 3XS;Blue;Each;Each;N/A;3XS;12;1;False;12;25;37,38;0,3
+2608;108;Superhero action jacket (Blue) XXS;Blue;Each;Each;N/A;XXS;12;1;False;12;25;37,38;0,3
+2609;109;Superhero action jacket (Blue) XS;Blue;Each;Each;N/A;XS;12;1;False;12;25;37,38;0,3
+2610;113;Superhero action jacket (Blue) XL;Blue;Each;Each;N/A;XL;12;1;False;12;30;44,85;0,35
+2611;114;Superhero action jacket (Blue) XXL;Blue;Each;Each;N/A;XXL;12;1;False;12;30;44,85;0,35
+2612;115;Superhero action jacket (Blue) 3XL;Blue;Each;Each;N/A;3XL;12;1;False;12;34;50,83;0,4
+2613;116;Superhero action jacket (Blue) 4XL;Blue;Each;Each;N/A;4XL;12;1;False;12;34;50,83;0,4
+2614;117;Superhero action jacket (Blue) 5XL;Blue;Each;Each;N/A;5XL;12;1;False;12;34;50,83;0,4
+2615;222;Chocolate beetles 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2616;223;Chocolate echidnas 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2617;225;Chocolate sharks 250g;N/A;Bag;Carton;N/A;250g;3;24;True;3;8,55;12,23;0,25
+2618;146;Halloween skull mask (Gray) S;Steel Gray;Each;Carton;N/A;S;12;12;False;12;18;26,91;0,3
+2619;147;Halloween skull mask (Gray) M;Steel Gray;Each;Carton;N/A;M;12;12;False;12;18;26,91;0,3
+2620;148;Halloween skull mask (Gray) L;Steel Gray;Each;Carton;N/A;L;12;12;False;12;18;26,91;0,3
+2621;149;Halloween skull mask (Gray) XL;Steel Gray;Each;Carton;N/A;XL;12;12;False;12;18;26,91;0,3
+2622;150;Pack of 12 action figures (variety);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2623;151;Pack of 12 action figures (male);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2624;152;Pack of 12 action figures (female);N/A;Packet;Packet;N/A;N/A;2;1;False;2;16;23,92;0,25
+2625;137;Animal with big feet slippers (Brown) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2626;136;Animal with big feet slippers (Brown) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2627;135;Animal with big feet slippers (Brown) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2628;134;Animal with big feet slippers (Brown) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2629;129;Plush shark slippers (Gray) XL;Steel Gray;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2630;128;Plush shark slippers (Gray) L;Steel Gray;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2631;127;Plush shark slippers (Gray) M;Steel Gray;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2632;126;Plush shark slippers (Gray) S;Steel Gray;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2633;125;Ogre battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2634;124;Ogre battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2635;123;Ogre battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2636;122;Ogre battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2637;122;Ogre battery-powered slippers (Green) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2638;123;Ogre battery-powered slippers (Green) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2639;124;Ogre battery-powered slippers (Green) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2640;125;Ogre battery-powered slippers (Green) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2641;126;Plush shark slippers (Gray) S;Steel Gray;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2642;127;Plush shark slippers (Gray) M;Steel Gray;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2643;128;Plush shark slippers (Gray) L;Steel Gray;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2644;129;Plush shark slippers (Gray) XL;Steel Gray;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2645;134;Animal with big feet slippers (Brown) S;N/A;Each;Each;N/A;S;12;1;False;12;32;47,84;0,35
+2646;135;Animal with big feet slippers (Brown) M;N/A;Each;Each;N/A;M;12;1;False;12;32;47,84;0,35
+2647;136;Animal with big feet slippers (Brown) L;N/A;Each;Each;N/A;L;12;1;False;12;32;47,84;0,35
+2648;137;Animal with big feet slippers (Brown) XL;N/A;Each;Each;N/A;XL;12;1;False;12;32;47,84;0,4
+2649;14;USB food flash drive - fortune cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2650;13;USB food flash drive - shrimp cocktail;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2651;10;USB food flash drive - chocolate bar;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2652;7;USB food flash drive - pizza slice;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2653;4;USB food flash drive - sushi roll;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2654;18;DBA joke mug - daaaaaa-ta (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2655;19;DBA joke mug - daaaaaa-ta (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2656;22;DBA joke mug - it depends (White);White;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2657;23;DBA joke mug - it depends (Black);Black;Each;Each;N/A;N/A;12;1;False;12;13;19,44;0,15
+2658;4;USB food flash drive - sushi roll;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2659;7;USB food flash drive - pizza slice;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2660;10;USB food flash drive - chocolate bar;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2661;13;USB food flash drive - shrimp cocktail;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2662;14;USB food flash drive - fortune cookie;N/A;Each;Each;N/A;N/A;14;1;False;14;32;47,84;0,05
+2663;2;USB rocket launcher (Gray);Steel Gray;Each;Each;N/A;N/A;14;1;False;14;25;37,38;0,3
+2664;156;10 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;15;22,43;5
+2665;157;10 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;30;44,85;6
+2666;158;10 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;105;156,98;10
+2667;159;20 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;18;26,91;5
+2668;160;20 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;33;49,34;6
+2669;161;20 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;108;161,46;10
+2670;162;32 mm Double sided bubble wrap 10m;N/A;Each;Each;N/A;10m;14;10;False;14;22;32,89;5
+2671;163;32 mm Double sided bubble wrap 20m;N/A;Each;Each;N/A;20m;14;10;False;14;37;55,32;6
+2672;164;32 mm Double sided bubble wrap 50m;N/A;Each;Each;N/A;50m;14;10;False;14;112;167,44;10
+2673;174;Bubblewrap dispenser (Black) 1.5m;Black;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2674;175;Bubblewrap dispenser (Blue) 1.5m;Blue;Each;Each;N/A;1.5m;14;1;False;14;240;358,8;10
+2675;189;Clear packaging tape 48mmx75m;N/A;Each;Each;N/A;48mmx75m;14;26;False;14;2,9;4,34;0,5
+2676;190;Clear packaging tape 48mmx100m;N/A;Each;Each;N/A;48mmx100m;14;20;False;14;3,5;5,23;0,7
+2677;207;Permanent marker blue 5mm nib (Blue) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2678;208;Permanent marker red 5mm nib (Red) 5mm;N/A;Each;Each;N/A;5mm;14;12;False;14;2,7;4,04;0,1
+2679;213;Air cushion film 200mmx100mm 325m;N/A;Each;Each;N/A;325m;14;1;False;14;87;130,07;5
+2680;214;Air cushion film 200mmx200mm 325m;N/A;Each;Each;N/A;325m;14;1;False;14;90;134,55;6
+2681;216;Void fill 100 L bag (White) 100L;N/A;Each;Each;N/A;100L;14;10;False;14;12,5;18,69;0,25
+2682;217;Void fill 200 L bag (White) 200L;N/A;Each;Each;N/A;200L;14;10;False;14;25;37,38;0,5
+2683;218;Void fill 300 L bag (White) 300L;N/A;Each;Each;N/A;300L;14;10;False;14;37,5;56,06;0,75
+2684;219;Void fill 400 L bag (White) 400L;N/A;Each;Each;N/A;400L;14;10;False;14;50;74,75;1
